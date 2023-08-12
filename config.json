@@ -1,7 +1,7 @@
 {
-  "ownerNumber": "62xxx@s.whatsapp.net",
-  "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "ownerNumber": "6285645801610@s.whatsapp.net",
+  "ownerName": "dimas",
+  "botName": "Dimas Bot",
   "packname": "follow",
   "author": "@riycoders",
   "pathimg": "./media/yoshino.jpg",
@@ -11,12 +11,11 @@
   },
   "hmm": {
     "yt": "https://youtube.com/@riycoders",
-    "ig": "https://instagram.com/riycoders",
-    "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
+    "ig": "https://instagram.com/riycoders
   },
   "donasi": {
-	"dana": "081575886399",
-	"gopay": "081575886399"
+	"dana": "087802501847",
+	"gopay": "087802501847"
   },
   "gamewaktu": 90,
   "limitCount": 25,
